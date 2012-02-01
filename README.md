@@ -1,0 +1,1 @@
+This is a chrome extension that adds a context menu item to all images on a web site that allows you to edit the image in [Pixlr](http://pixlr.com). At this point the context menu item only appears on image tags, but I would like to figure out how to get it to show up for any element with a background image.
