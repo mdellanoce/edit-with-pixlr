@@ -1,7 +1,7 @@
 {
   "background_page": "background.html",
-  "description": "Open and edit any image in Pixlr",
-  "name": "Open with Pixlr",
+  "description": "Edit any image in Pixlr",
+  "name": "Edit with Pixlr",
   "permissions": [
     "http://*/*",
     "https://*/*",
