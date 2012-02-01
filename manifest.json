@@ -1,0 +1,12 @@
+{
+  "background_page": "background.html",
+  "description": "Open and edit any image in Pixlr",
+  "name": "Open with Pixlr",
+  "permissions": [
+    "http://*/*",
+    "https://*/*",
+    "contextMenus",
+    "tabs"
+  ],
+  "version": "0.1.0"
+}
