@@ -1,5 +1,7 @@
 {
-  "background_page": "background.html",
+  "background": {
+    "scripts": ["javascripts/edit-with-pixlr.js"]
+  },
   "description": "Edit any image in Pixlr",
   "icons": {
     "16": "icons/icon_16.png",
@@ -13,5 +15,6 @@
     "contextMenus",
     "tabs"
   ],
-  "version": "0.1.0"
+  "manifest_version": 2,
+  "version": "0.1.1"
 }
